@@ -1,4 +1,4 @@
-<img alt="build: in maintenance" src="maintenance.svg">
+<img alt="build: in maintenance" src="https://github.com/fitorg/.github/blob/main/profile/maintenance.svg">
 
 -------
 
